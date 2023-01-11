@@ -26,7 +26,7 @@ Mit der Programmierung des Kamels haben wir ebenfalls begonnen, wobei wir jedoch
 
 [Homepage-Greenfoot](https://www.greenfoot.org/doc)
   
-![screenshot greenfoot](bilder/Screenshot_Greenfoot_tutorials.png "Screenshot von Greenfoot")
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_tutorials.png "Screenshot von Greenfoot")
 </details>
 
 <h3 id="kapitel1.3">17.01.2023</h3>
