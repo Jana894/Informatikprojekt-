@@ -23,7 +23,7 @@ Heute haben wir uns weiter mit "Greenfoot" beschäftigt und uns von Herrn Buhl d
 Mit der Programmierung des Kamels haben wir ebenfalls begonnen, wobei wir jedoch ein Problem damit hatten, den Befehl in "Java" richtig zu formulieren, womit uns Luca dann geholfen und den Tipp gegeben hat, auf der Greenfoot-Seite die Tutorials zur Arbeit mit "Greenfoot" anzuschauen.
 
 https://www.greenfoot.org/doc
-
+Screenshot_Greenfoot_tutorials.png
 <h3 id="kapitel1.3">17.01.2023</h3>
 
 <h3 id="kapitel1.4">18.01.2023</h3>
