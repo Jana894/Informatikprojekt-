@@ -21,14 +21,14 @@ Heute haben wir die Noten für unser Halbjahresprojekt zurückbekommen und hatte
 <h3 id="kapitel1.2">11.01.2023</h3>
 Heute haben wir uns weiter mit "Greenfoot" beschäftigt und uns von Herrn Buhl die Grundlagen erklären lassen. Zudem haben wir ein Buch über "Greenfoot" bekommen, um anhand dieses das Programm verstehen zu können und die Programmiersprache "Java". Nachdem wir uns überlegt haben, dass unser Spiel in der Wüste stattfinden soll und sich unsere Figur (ein Kamel) durch ein Labyrinth von Kakteen bewegen soll und ein Leben verliert, sobald ein Kaktus berührt wird, haben wir die einzelnen Figuren unter "actors" aufgeführt und benannt.
 Mit der Programmierung des Kamels haben wir ebenfalls begonnen, wobei wir jedoch ein Problem damit hatten, den Befehl in "Java" richtig zu formulieren, womit uns Luca dann geholfen und den Tipp gegeben hat, auf der Greenfoot-Seite die Tutorials zur Arbeit mit "Greenfoot" anzuschauen.
+
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
 [Homepage-Greenfoot](https://www.greenfoot.org/doc)
   
-
+![screenshot greenfoot](bilder/Screenshot_Greenfoot_tutorials.png "Screenshot von Greenfoot")
 </details>
 
-Screenshot_Greenfoot_tutorials.png
 <h3 id="kapitel1.3">17.01.2023</h3>
 
 <h3 id="kapitel1.4">18.01.2023</h3>
