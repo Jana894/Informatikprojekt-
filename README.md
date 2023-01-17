@@ -30,6 +30,12 @@ Mit der Programmierung des Kamels haben wir ebenfalls begonnen, wobei wir jedoch
 </details>
 
 <h3 id="kapitel1.3">17.01.2023</h3>
+Heute haben wir uns weiter in "Greenfoot" eingearbeitet und es am Ende sogar geschafft, zu Programmieren, dass unsere Figur (Kamel) das Fass mit Wasser  trinkt, wobei dieses dann verschwindet. Außerdem können wir unser Kamel nach rechts und links bewegen und müssen nun noch programmieren, wie es sich ein wenig drehen kann, um durch das Kaktus-Labyrinth zu kommen. 
+Unser Plan ist es, dass sich das Kamel durch das Labyrinth aus Kakteen bewegt und zwei Leben hat. Berührt das Kamel einen Kaktus oder wird von einem herumfliegenden Känguru getroffen, verliert es ein Leben. Durch das Trinken aus dem Fass mit Wasser kann ein Leben zurückgewonnen werden. Auch in diesem 2D-Spiel soll es wie in unserem anderen Projekt möglich sein, wenn man mit dem Kamel den Rand der Ebene erreicht, dass eine neue Ebene erscheint. Hinzu kommt, dass es noch eine Bombe gibt, die zu einem zufälligen Zeitpunkt auftaucht und wenn sie das Kamel trifft, ist dieses tot und man hat verloren. Ein Ziel des Kamels haben wir uns noch nicht überlegt, sind uns aber auch noch nicht sicher, ob wir unseren Plan so umsetzen können, wie wir aktuell denken, da uns das Einarbeiten in "Greenfoot" doch einiges an Zeit kostet.
+
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+
+</details>
 
 <h3 id="kapitel1.4">18.01.2023</h3>
 
