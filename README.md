@@ -47,6 +47,10 @@ Code SandWorld
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_3.png "Screenshot von Greenfoot")
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_4.png "Screenshot von Greenfoot")
+
+Code Kamel (Bewegung durch die SandWorld)
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_5.png "Screenshot von Greenfoot")
 </details>
 
 <h3 id="kapitel1.5">24.01.2023</h3>
