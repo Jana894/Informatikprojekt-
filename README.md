@@ -35,6 +35,8 @@ Unser Plan ist es, dass sich das Kamel durch das Labyrinth aus Kakteen bewegt un
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_1.png "Screenshot von Greenfoot")
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_2.png "Screenshot von Greenfoot")
 </details>
 
 <h3 id="kapitel1.4">18.01.2023</h3>
