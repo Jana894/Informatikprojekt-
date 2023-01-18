@@ -41,6 +41,13 @@ Unser Plan ist es, dass sich das Kamel durch das Labyrinth aus Kakteen bewegt un
 
 <h3 id="kapitel1.4">18.01.2023</h3>
 
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+
+Code SandWorld
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_3.png "Screenshot von Greenfoot")
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_4.png "Screenshot von Greenfoot")
+</details>
+
 <h3 id="kapitel1.5">24.01.2023</h3>
 
 <h3 id="kapitel1.6">25.01.2023</h3>
