@@ -44,6 +44,7 @@ Unser Plan ist es, dass sich das Kamel durch das Labyrinth aus Kakteen bewegt un
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
 Code SandWorld
+
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_3.png "Screenshot von Greenfoot")
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_4.png "Screenshot von Greenfoot")
 </details>
