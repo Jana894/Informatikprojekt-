@@ -40,6 +40,7 @@ Unser Plan ist es, dass sich das Kamel durch das Labyrinth aus Kakteen bewegt un
 </details>
 
 <h3 id="kapitel1.4">18.01.2023</h3>
+Heute haben wir uns weiter in "Greenfoot" eingearbeitet und es am Ende geschafft, unser Kamel mit den Tasten "a", "d", "s" und "w" durch das Labyrinth aus Kakteen zu bewegen. Leider haben wir uns damit fast die gesamte Doppelstunde aufgehalten, nachdem wir vergebens versucht haben, dass das Kamel, wenn es einen Kaktus berührt ein Leben verliert. Unser Gedanke hierfür war eigentlich, dass wir eine ähnliche Programmierung vornehen, wie wenn es aus dem Fass mit Wasser trinkt, jedoch haben wir es nicht geschafft, dass wenn das Kamel einen Kaktus berührt, dass ein roter Punkt, der die Leben darstellen soll, verschwindet.
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
