@@ -55,5 +55,11 @@ Code Kamel (Bewegung durch die SandWorld)
 </details>
 
 <h3 id="kapitel1.5">24.01.2023</h3>
+Heute haben wir uns zunächst überlegt, dass es doch etwas unrealistisch ist, dass Kängurus durch die Luft fliegen, weshalb wir diese durch Spinnen ersetzt haben. Außerdem haben wir uns mit dem Problem von letzter Woche beschäftigt, jedoch immer noch keine Lösung gefunden. Auch die Tutorials von Greenfoot auf deren Seite, das Greenfoot Buch und mögliche Ideen von Luca konnten uns nicht weiterhelfen, weshalb wir aktuell an einem Punkt sind, wo wir nicht voran kommen. Hoffentlich hat Herr Buhl morgen eine Idee, wie wir weiter kommen beziehungsweise unseren Code ändern müssen, damit wir dieses Problem beheben können. 
+
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_6.png "Screenshot von Greenfoot")
+</details>
 
 <h3 id="kapitel1.6">25.01.2023</h3>
