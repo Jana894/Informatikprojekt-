@@ -59,6 +59,8 @@ Heute haben wir uns zunächst überlegt, dass es doch etwas unrealistisch ist, d
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
+Die roten Kreuze markieren unsere problematische Stelle.
+    
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_6.png "Screenshot von Greenfoot")
 </details>
 
