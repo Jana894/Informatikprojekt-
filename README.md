@@ -9,6 +9,8 @@
   <li><a href="#kapitel1.4">18.01.2023</a></h3></li>
   <li><a href="#kapitel1.5">24.01.2023</a></h3></li>
   <li><a href="#kapitel1.6">25.01.2023</a></h3></li>
+  <li><a href="#kapitel1.7">31.01.2023</a></h3></li>
+  <li><a href="#kapitel1.8">01.02.2023</a></h3></li>
 </details>
 
 <li><a href="https://github.com/Jana894/Projektseite-2.-Halbjahr/blob/main/README.md">2. Projektseite</a></h2></li>
@@ -65,6 +67,8 @@ Die roten Kreuze markieren unsere problematische Stelle.
 </details>
 
 <h3 id="kapitel1.6">25.01.2023</h3>
+Heute haben wir uns erneut mit unserem Problem der letzten Stunde beschäftigt und haben mit der Hilfe von Herrn Buhl unseren Denkfehler gefunden. Wir werden auch immer vertrauter mit "Greenfoot" und dem Prinzip hinter Java. 
+Wir habne eine ArrayList programmiert, damit unsere Leben zusammengefasst sind und wir dann vom Kamel auf die ArrayList in der SandWorld zugreifen können, damit ein LebenVomKamel verschwindet, wenn unser Kamel einen Kaktus berührt.
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
@@ -80,3 +84,17 @@ Programmierung Kamel
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_10.png "Screenshot von Greenfoot")
 </details>
+
+<h3 id="kapitel1.7">31.01.2023</h3>
+Leider ließ sich heute unser gesamtes Projekt nicht mehr öffnen und wir mussten von letzter Stunde alles erneut machen. Dabei traten so viele Schwierigkeiten auf, dass wir am Ende der Stunde weder vor noch zurück kamen, weshalbuns Herr Buhl erneut weiterhelfen musste, damit wir unser Projekt überhaupt speichern konnten.
+
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_11.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_12.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_13.png "Screenshot von Greenfoot")
+</details>
+
+<h3 id="kapitel1.8">01.02.2023</h3>
