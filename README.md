@@ -65,3 +65,14 @@ Die roten Kreuze markieren unsere problematische Stelle.
 </details>
 
 <h3 id="kapitel1.6">25.01.2023</h3>
+
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_7.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_8.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_9.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_10.png "Screenshot von Greenfoot")
+</details>
