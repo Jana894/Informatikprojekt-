@@ -86,7 +86,7 @@ Programmierung Kamel
 </details>
 
 <h3 id="kapitel1.7">31.01.2023</h3>
-Leider ließ sich heute unser gesamtes Projekt nicht mehr öffnen und wir mussten von letzter Stunde alles erneut machen. Dabei traten so viele Schwierigkeiten auf, dass wir am Ende der Stunde weder vor noch zurück kamen, weshalbuns Herr Buhl erneut weiterhelfen musste, damit wir unser Projekt überhaupt speichern konnten.
+Leider ließ sich heute unser gesamtes Projekt nicht mehr öffnen und wir mussten von letzter Stunde alles neu machen. Dabei traten so viele Schwierigkeiten auf, dass wir am Ende der Stunde weder vor noch zurück kamen, weshalb uns Herr Buhl erneut weitergeholfen hat, damit wir unser Projekt überhaupt speichern konnten.
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
