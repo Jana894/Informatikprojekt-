@@ -90,11 +90,33 @@ Leider ließ sich heute unser gesamtes Projekt nicht mehr öffnen und wir musste
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
+Programmierung SandWorld
+
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_11.png "Screenshot von Greenfoot")
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_12.png "Screenshot von Greenfoot")
+
+Programmierung Kamel 
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_13.png "Screenshot von Greenfoot")
 </details>
 
 <h3 id="kapitel1.8">01.02.2023</h3>
+Heute haben wir unsere Kakteen umplatziert, da das Kamel seine Leben schon verliert, wenn es nah an die Kakteen herankommt und sie nicht zwingend berührt. Anschließend haben wir unsere Programmierung der SandWorld übersichtlicher gemacht und angefangen zu programmieren, dass unser Kamel seine verlorenen Leben zurückerhält, wenn es aus dem FassMitWasser "trinkt". Leider sind wir hierbei noch nicht zu einem endgültigen Ergebnis gekommen und werden dort nächte Stunde weiter arbeiten.
+
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+
+Programmierung SandWorld
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_14.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_15.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_16.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_17.png "Screenshot von Greenfoot")
+
+Programmierung Kamel
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_18.png "Screenshot von Greenfoot")
+</details>
