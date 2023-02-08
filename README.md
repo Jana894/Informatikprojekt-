@@ -11,6 +11,8 @@
   <li><a href="#kapitel1.6">25.01.2023</a></h3></li>
   <li><a href="#kapitel1.7">31.01.2023</a></h3></li>
   <li><a href="#kapitel1.8">01.02.2023</a></h3></li>
+  <li><a href="#kapitel1.9">08.02.2023</a></h3></li>
+  <li><a href="#kapitel1.10">10.02.2023</a></h3></li>
 </details>
 
 <li><a href="https://github.com/Jana894/Projektseite-2.-Halbjahr/blob/main/README.md">2. Projektseite</a></h2></li>
@@ -120,3 +122,15 @@ Programmierung Kamel
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_18.png "Screenshot von Greenfoot")
 </details>
+
+<h3 id="kapitel1.9">08.02.2023</h3>
+Heute haben wir erst 10 Minuten später angefangen, da es durch den neuen Stundenplan ein Missverständnis bezüglich unserer Stunden gab. Im Anschluss habne wir dann noch programmiert, dass unser Kamel auch Leben verliert, wenn es von den "herumfliegenden" Spinnen getroffen wird. Außerdem haben wir Herrn Buhl nach einem Programm gefragt, bei dem wir einen Java Quelltext einfügen können, da Bente ausprobiert hat, sich von ChatGPT einen Java Quelltext programmieren zulassen und jetzt würde uns interessieren, ob dieser in der Praxis funktioniert.
+
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_19.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_20.png "Screenshot von Greenfoot")
+</details>
+
+<h3 id="kapitel1.10">10.02.2023</h3>
