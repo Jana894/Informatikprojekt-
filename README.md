@@ -134,3 +134,15 @@ Heute haben wir erst 10 Minuten später angefangen, da es durch den neuen Stunde
 </details>
 
 <h3 id="kapitel1.10">10.02.2023</h3>
+Heute haben wir uns damit beschäftigt, unser Problem der letzten Stundeen zulösen, haben es jedoch immer noch nicht geschafft, dass die LebenVomKamel wieder vollständig aufgefüllt werden, sobald unser Kamel aus dem FassMitWasser "trinkt". Aus diesem Grund und da Herr Buhl mit dem Projekt von Philipp und Arvid beschäftigt war, haben wir uns dann zunächst damit beschäftigt einen GameOver Bildschirm zu erstellen, wenn das Kamel alle seine Leben verloren hat. Dafür haben wir uns das Projekt von Hauke und Klemens angeschaut, da die beiden bei ihrem Projekt aus dem ersten Halbjahr ebenfalls so einen Bildschirm eingebaut haben. Nach langem ausprobieren und mehreren verschiedenen Versuchen, es zu programmieren, haben wir es am Ende der Stunde letztendlich geschafft. Sobald dieser Bildschirm erscheint, stoppt das Spiel. In der nächsten Stunde müssen wir dann nur noch programmieren, dass der Bildschirm das gesamte Spielfeld und nicht nur den mittleren Teil ausfüllt.
+Außerdem haben wir uns überlegt, dass wir uns, wenn wir alle aktuellen Probleme gelöst haben, damit beschäftigen wollen, ein Ziel des Spiels zu programmieren, wofür es notwendig ist, dass unser Kamel, wenn es den rechten Spielfeldrand erreicht, dort "hindurchgehen" kann und sozusagen zu einem neuen Spielfeld inklusive Ziel kommt. 
+Da es am Ende der Stunde einen Kurzschluss gab, mussten wir zu Hause nachschauen, ob alles gespeichert wurde. Zum Glück waren alle Programmierung noch da und nur unser Blogeintrag musste noch einmal neu geschrieben werden. 
+
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_21.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_22.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_23.png "Screenshot von Greenfoot")
+</details>
