@@ -13,6 +13,8 @@
   <li><a href="#kapitel1.8">01.02.2023</a></h3></li>
   <li><a href="#kapitel1.9">08.02.2023</a></h3></li>
   <li><a href="#kapitel1.10">10.02.2023</a></h3></li>
+  <li><a href="#kapitel1.11">15.02.2023</a></h3></li>
+  <li><a href="#kapitel1.12">17.02.2023</a></h3></li>
 </details>
 
 <li><a href="https://github.com/Jana894/Projektseite-2.-Halbjahr/blob/main/README.md">2. Projektseite</a></h2></li>
@@ -146,3 +148,13 @@ Da es am Ende der Stunde einen Kurzschluss gab, mussten wir zu Hause nachschauen
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_23.png "Screenshot von Greenfoot")
 </details>
+
+<h3 id="kapitel1.11">15.02.2023</h3>
+Heute haben wir uns ausführlich mit dem GameOver Bildschirm beschäftigt und mussten am Ende eigentlich nur das Format unserer Spielfläche ändern, um das Problem, dass nicht die gesamte Spielfläche bedeckt ist, zu lösen.
+In den nächsten Stunden haben wir vor, zu programmieren, dass, wenn das Kamel durch das Labyrinth das Fass mit Wasser erreicht, ein neues Level erscheint, sodass man nicht nur ein Level hat. Wenn dieses Level nicht zu Ende gespielt werden kann, sondern man vorher alle Leben verliert, müssen beide nochmal angefangen werden.
+
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+
+</details>
+
+<h3 id="kapitel1.12">17.02.2023</h3>
