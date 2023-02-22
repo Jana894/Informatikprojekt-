@@ -171,4 +171,10 @@ Die heutige Stunde ist leider ausgefallen.
 
 <h3 id="kapitel1.13">22.02.2023</h3>
 Heute haben wir uns mit der Optik unserer Programmierung beschäftigt, nachdem Herr Buhl sich unser Projekt angeschaut hat und meinte, dass man die Programmierung der Welt "schöner" programmieren kann. 
+
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+    
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_28.png "Screenshot von Greenfoot")
+</details>
+
 <h3 id="kapitel1.14">24.02.2023</h3>
