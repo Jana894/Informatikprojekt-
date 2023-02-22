@@ -155,6 +155,13 @@ In den nächsten Stunden haben wir vor, zu programmieren, dass, wenn das Kamel d
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_24.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_25.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_26.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_27.png "Screenshot von Greenfoot")
 </details>
 
 <h3 id="kapitel1.12">17.02.2023</h3>
