@@ -15,6 +15,8 @@
   <li><a href="#kapitel1.10">10.02.2023</a></h3></li>
   <li><a href="#kapitel1.11">15.02.2023</a></h3></li>
   <li><a href="#kapitel1.12">17.02.2023</a></h3></li>
+  <li><a href="#kapitel1.13">22.02.2023</a></h3></li>
+  <li><a href="#kapitel1.14">24.02.2023</a></h3></li>
 </details>
 
 <li><a href="https://github.com/Jana894/Projektseite-2.-Halbjahr/blob/main/README.md">2. Projektseite</a></h2></li>
@@ -165,3 +167,8 @@ In den nächsten Stunden haben wir vor, zu programmieren, dass, wenn das Kamel d
 </details>
 
 <h3 id="kapitel1.12">17.02.2023</h3>
+Die heutige Stunde ist leider ausgefallen.
+
+<h3 id="kapitel1.13">22.02.2023</h3>
+Heute haben wir uns mit der Optik unserer Programmierung beschäftigt, nachdem Herr Buhl sich unser Projekt angeschaut hat und meinte, dass man die Programmierung der Welt "schöner" programmieren kann. 
+<h3 id="kapitel1.14">24.02.2023</h3>
