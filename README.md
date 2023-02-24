@@ -178,3 +178,16 @@ Heute haben wir uns mit der Optik unserer Programmierung beschäftigt, nachdem H
 </details>
 
 <h3 id="kapitel1.14">24.02.2023</h3>
+
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+    
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_29.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_30.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_31.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_32.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_33.png "Screenshot von Greenfoot")
+</details>
