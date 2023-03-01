@@ -178,6 +178,8 @@ Heute haben wir uns mit der Optik unserer Programmierung beschäftigt, nachdem H
 </details>
 
 <h3 id="kapitel1.14">24.02.2023</h3>
+Heute haben wir uns damit befasst, dass es ein zweites Level gibt, welches erscheint, wenn das Kamel das FassMitWasser berührt. Nachdem wir mit dieser Programmierung fertig waren, kam Herr Buhl vorbei und hat sich unsere Programmierung angeschaut und uns einige Tipps gegeben, wie wir "schöner" programmieren können. Außerdem hat er uns gesagt, wir wir Fehle in der Programmierung vermeiden und nicht alles "doppelt und dreifach" programmieren. Hierfür mussten wir einige Programmierungen verbinden und konnten dadurch viele Zwischenprogrammierungen entfernen und es insgesamt kürzer halten.
+Am Ende der Stund haben wir uns noch damit beschäftigt, das zweite Level zu gestalten und die Programmierungen des ersten Levels zu übernehmen. Dabei traten einige Probleme auf, wie zum Beispiel, dass unser Kamel keine Leben mehr verliert, wenn es einen Kaktus berührt. Um diese Probleme werden wir uns in deer nächsten Stunde kümmern.
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
     
