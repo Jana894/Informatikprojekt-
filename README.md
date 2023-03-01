@@ -78,7 +78,7 @@ Wir habne eine ArrayList programmiert, damit unsere Leben zusammengefasst sind u
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
-Programmierung World
+Programmierung SandWorld
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_9.png "Screenshot von Greenfoot")
 
@@ -148,8 +148,11 @@ Da es am Ende der Stunde einen Kurzschluss gab, mussten wir zu Hause nachschauen
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
+Programmierung SandWorld
+    
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_21.png "Screenshot von Greenfoot")
 
+Programmierung Totenkopf
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_22.png "Screenshot von Greenfoot")
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_23.png "Screenshot von Greenfoot")
