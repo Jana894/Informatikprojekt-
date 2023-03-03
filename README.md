@@ -214,5 +214,6 @@ Programmierung Kamel
 </details>
 
 <h3 id="kapitel1.15">01.03.2023</h3>
+Heute haben wir uns weiter damit auseinandergesetzt, dass die Programmierungen der ersten Welt in die zweite übernommen werden und nur die einzelnen Gegenstände eine neue Position erhalten und nicht ebenfalls zusätzlich zu den neuen erscheinen. Dafür haben wir Herrn Buhl erneut um Hilfe gebeten, dieser wusste dann jedoch selber, nach häufigem Ausprobieren, wie es funktionieren könnte und meinte, dass wir am Besten unsere zweite Welt von der ersten ableiten und damit die Programmierungen der ersten Welt übernehmen und nur noch programmieren müssen, dass nachdem das FassMitWasser berührt wurde nur erstelleWelt2 in Kraft tritt und nicht zusätzlich noch erstelleWelt. Mit dieser Programmierung werden wir uns am Freitag im Distanzlernen beschäftigen.
 
 <h3 id="kapitel1.16">03.03.2023</h3>
