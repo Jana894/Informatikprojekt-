@@ -217,3 +217,14 @@ Programmierung Kamel
 Heute haben wir uns weiter damit auseinandergesetzt, dass die Programmierungen der ersten Welt in die zweite übernommen werden und nur die einzelnen Gegenstände eine neue Position erhalten und nicht ebenfalls zusätzlich zu den neuen erscheinen. Dafür haben wir Herrn Buhl erneut um Hilfe gebeten, dieser wusste dann jedoch selber, nach häufigem Ausprobieren, wie es funktionieren könnte und meinte, dass wir am Besten unsere zweite Welt von der ersten ableiten und damit die Programmierungen der ersten Welt übernehmen und nur noch programmieren müssen, dass nachdem das FassMitWasser berührt wurde nur erstelleWelt2 in Kraft tritt und nicht zusätzlich noch erstelleWelt. Mit dieser Programmierung werden wir uns am Freitag im Distanzlernen beschäftigen.
 
 <h3 id="kapitel1.16">03.03.2023</h3>
+Heute war Homeschooling, weshalb wir unser Projekt von zu Hause aus dem Gruppenordner bei Isurf öffnen und bearbeiten wollten. Dafür musste Greenfoot erst einmal heruntergelanden werden. Als wir dann das Projekt öffnen wollten, um daran weiterzuarbeiten, hieß es, dass dieses Projekt nicht geöffnet werden kann und auch nach mehrmaligem herunterladen konnten wir das Projekt nicht öffnen. Aus diesem Grund konnten wir heute leider nicht weiterarbeiten und hoffen, dass wir diesen Rückstand am Mittwoch und in den nächsten Stunden aufholen können. 
+An unserem Stundenprotokoll wurde dann weitergearbeitet, Blogeinträge ergänzt und Korrektur gelesen, sodass wir gearbeitet haben, jedoch leider nicht an unserem Projekt.
+
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+
+![screenshot greenfoot](Bilder/Homeschooling_Greenfoot_1.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Homeschooling_Greenfoot_2.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Homeschooling_Greenfoot_3.png "Screenshot von Greenfoot")
+</details>
