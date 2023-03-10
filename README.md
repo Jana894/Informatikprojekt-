@@ -234,6 +234,16 @@ An unserem Stundenprotokoll wurde dann weitergearbeitet, Blogeinträge ergänzt 
 </details>
 
 <h3 id="kapitel1.17">08.03.2023</h3>
+Heute haben wir das nachgearbeitet, was wir am Freitag während des Distanzlerntages machen wollten, aber nicht konnten, da sich unser Projekt nich öffnen beziehungsweise bearbeiten ließ. Wir haben nun ein Level 1 und ein Level 2 programmiert und konnten unsere SandWorld2 löschen, dadurch, dass nun die SandWorld alle Befehle und Funktionen enthält. Ein kleines Problem stellte noch das Erscheinen der einzelnen Levelelemente dar, aber nach mehrerem ausprobieren und einem Tipp von Herrn Buhl haben wir auch dieses Problem lösen können und müssen uns nur noch damit auseinandersetzen, dass auch im zweiten Level die LebenVomKamel verschwinden und nicht dauerhaft am rechten oberen Rand bleiben, das Kamel trotzdem Leben verliert und auch der TotenKopf erscheint, obwohl dem Spieler nicht gezeigt wurde, dass die Leben verschwinden.
+
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_34.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_35.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_36.png "Screenshot von Greenfoot")
+</details>
 
 <h3 id="kapitel1.18">10.03.2023</h3>
 
