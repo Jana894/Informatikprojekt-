@@ -244,6 +244,15 @@ Heute haben wir das nachgearbeitet, was wir am Freitag während des Distanzlernt
 </details>
 
 <h3 id="kapitel1.18">10.03.2023</h3>
+Heute haben wir uns noch einmal damit beschäftigt, dass die LebenVomKamel im zweiten Level auch verschwinden und nicht wie "eingefroren" am rechten oberen bleiben. Leider haben wir dort keine Lösung gefunden und uns zunächst damit beschäftigt, dass eine Bombe zufällig auftaucht und durch das Bild fliegt. Dafür hat uns Herr Buhl einen kleinen Anstoß bezüglich des Erstellen eines Timers gegeben und Luca hat uns noch einmal erklärt, dass wir für die Bombe eine Gravitation programmieren müssen und uns noch einmal den Timer erklärt. Für die Gravitationskraft werden wir uns zu Hause ein Tutorial anschauen, damit wir dies in der nächsten Stunde programmieren können. 
+Außerdem haben wir noch den Abgabetermin der Projekte besprochen und festgelegt, dass die Abgabe zwischen dem 5. und 7. April erfolgt.
+
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_36.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_37.png "Screenshot von Greenfoot")
+</details>
 
 <h3 id="kapitel1.19">15.03.2023</h3>
 
