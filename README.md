@@ -241,8 +241,6 @@ Heute haben wir das nachgearbeitet, was wir am Freitag während des Distanzlernt
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_34.png "Screenshot von Greenfoot")
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_35.png "Screenshot von Greenfoot")
-
-![screenshot greenfoot](Bilder/Screenshot_Greenfoot_36.png "Screenshot von Greenfoot")
 </details>
 
 <h3 id="kapitel1.18">10.03.2023</h3>
