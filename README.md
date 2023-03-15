@@ -256,4 +256,9 @@ Außerdem haben wir noch den Abgabetermin der Projekte besprochen und festgelegt
 
 <h3 id="kapitel1.19">15.03.2023</h3>
 
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_38.png "Screenshot von Greenfoot")
+</details>
+
 <h3 id="kapitel1.20">17.03.2023</h3>
