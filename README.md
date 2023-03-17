@@ -255,6 +255,7 @@ Außerdem haben wir noch den Abgabetermin der Projekte besprochen und festgelegt
 </details>
 
 <h3 id="kapitel1.19">15.03.2023</h3>
+Heute haben wir uns mit der Gravitation unserer Bombe und dem Verschwinden, sobald sie den Rand der SandWorld berührt beschäftigt. Nach langem googlen und ausprobieren haben wir es letztendlich ohne Hilfe geschafft, diese Vorgänge richtig zu programmieren. Doch leider ist ein neues Problem zu dem bisher ungelösten der nicht verschwindenen LebenVomKamel hinzugekommen und zwar funktioniert das zufällige Erscheinen der Bombe nicht mehr, doch mit diesen beiden Problemen werden wir uns in der nächten Stunde auseinandersetzen.
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
@@ -262,3 +263,4 @@ Außerdem haben wir noch den Abgabetermin der Projekte besprochen und festgelegt
 </details>
 
 <h3 id="kapitel1.20">17.03.2023</h3>
+Heute war Bente nicht da, weshalb Jana alleine versucht hat die beiden Probleme, die sich bisher nicht lösen ließen, zu beheben.
