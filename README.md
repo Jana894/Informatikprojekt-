@@ -263,4 +263,10 @@ Heute haben wir uns mit der Gravitation unserer Bombe und dem Verschwinden, soba
 </details>
 
 <h3 id="kapitel1.20">17.03.2023</h3>
-Heute war Bente nicht da, weshalb Jana alleine versucht hat die beiden Probleme, die sich bisher nicht lösen ließen, zu beheben.
+Heute kam Bente später, weshalb Jana zunächst alleine versucht hat die beiden Probleme, die sich bisher nicht lösen ließen, zu beheben. Leider konnten wir dann auch zusammen nicht das Problem finden, weshalb wir erst einmal programmiert haben, dass wenn die Bombe, die zufällig durch das Spiel fällt, das Kamel berührt, dass Spiel vorbei ist und neu gestartet werden muss. Anschließend haben wir Herrn Buhl zu Beginn der zweiten Stund um Hilfe gebeten, in Bezug auf unsere LebenVomKamel die leider im zweiten Level nicht sichtbar verschwinden. Doch auch nach langer Fehlersuche und Umprogrammierung haben wir das Problem nicht gelöst bekommen und auch Herrn Buhl gingen die Ideen und Ansätze aus. Aus diesem Grund werden wir diese Programmierung fehlerhaft lassen müssen, aber dadurch, dass auch Herr Buhl den Fehler nicht beheben kann, keinen Punktabzug oder negative Bewertung dafür bekommen.
+
+<details id="Link"><summary>Arbeit mit Greenfoot</summary>
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_39.png "Screenshot von Greenfoot")
+</details>
+
