@@ -268,5 +268,6 @@ Heute kam Bente später, weshalb Jana zunächst alleine versucht hat die beiden 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_39.png "Screenshot von Greenfoot")
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_40.png "Screenshot von Greenfoot")
 </details>
 
