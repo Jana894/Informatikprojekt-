@@ -284,11 +284,12 @@ Des Weiteren hat Jana sich dann mit der Bearbeitung der Projektseite beschäftig
 Dadurch, dass Herr Buhl so ehrgeizig war und unbedingt den Fehler bei den LebenVomKamel finden wollte, hat er sich in der Doppelstunde noch damit auseinander gesetzt und konnte glücklicherweise den Fehler beheben und nun funktioniert unser Spiel fehlerfrei. 
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
-![screenshot greenfoot](Bilder/Screenshot_Greenfoot_24.png "Screenshot von Greenfoot")
 
-![screenshot greenfoot](Bilder/Screenshot_Greenfoot_25.png "Screenshot von Greenfoot")
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_40.png "Screenshot von Greenfoot")
 
-![screenshot greenfoot](Bilder/Screenshot_Greenfoot_26.png "Screenshot von Greenfoot")
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_41.png "Screenshot von Greenfoot")
+
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_42.png "Screenshot von Greenfoot")
 </details>
 
 <h3 id="kapitel1.23">29.03.2023</h3>
