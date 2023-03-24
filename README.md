@@ -127,7 +127,7 @@ Heute haben wir unsere Kakteen umplatziert, da das Kamel seine Leben schon verli
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
-Programmierung SandWorld
+**Zusammenfassung/Vereinfachung der bisherigen Programmierungen**
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_14.png "Screenshot von Greenfoot")
 
@@ -135,7 +135,8 @@ Programmierung SandWorld
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_17.png "Screenshot von Greenfoot")
 
-Programmierung Kamel
+**Programmierung Heilung der LebenVomKamel**
+    
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_15.png "Screenshot von Greenfoot")
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_18.png "Screenshot von Greenfoot")
@@ -146,11 +147,11 @@ Heute haben wir erst 10 Minuten später angefangen, da es durch den neuen Stunde
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
-Programmierung Kamel
+**Programmierung Entfernen der LebenVomKamel bei Berührung der Spinne**
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_19.png "Screenshot von Greenfoot")
 
-Level 1
+**Layout Level 1**
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_20.png "Screenshot von Greenfoot")
 </details>
