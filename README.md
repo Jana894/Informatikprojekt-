@@ -279,6 +279,8 @@ Heute kam Bente später, weshalb Jana zunächst alleine versucht hat die beiden 
 Heute waren Englisch-Sprechprüfungen, weshalb die heutige Stunde ausgefallen ist.
 
 <h3 id="kapitel1.22">24.03.2023</h3>
+Heute war Bente nich da, weshalb Jana alleine auf Fehlersuche gegangen ist und letztendlich den Fehler behebn konnte, weshalb die Bombe nicht mehr aufgetaucht ist. Es im Endeffekt nur daran, dass sie am oberen Rand erschienen ist und wir programmiert hatten, dass sie verschwindet, sobald sie den Rand berührt, was dazu geführt hat, dass sie verschwunden ist direkt, nachdem sie in die Welt gesetzt wurde.
+Des Weiteren hat Jana sich dann mit der Bearbeitung der Projektseite beschäftigt, da die Abgabe ja schon in zwei Wochen ist und die Projektseite noch nicht angefangen war.
 
 <h3 id="kapitel1.23">29.03.2023</h3>
 
