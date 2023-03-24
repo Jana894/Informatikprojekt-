@@ -55,6 +55,7 @@ Unser Plan ist es, dass sich das Kamel durch das Labyrinth aus Kakteen bewegt un
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_1.png "Screenshot von Greenfoot")
+    
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_2.png "Screenshot von Greenfoot")
 </details>
 
@@ -66,6 +67,7 @@ Heute haben wir uns weiter in "Greenfoot" eingearbeitet und es am Ende geschafft
 Code SandWorld
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_3.png "Screenshot von Greenfoot")
+    
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_4.png "Screenshot von Greenfoot")
 
 Code Kamel (Bewegung durch die SandWorld)
@@ -78,7 +80,7 @@ Heute haben wir uns zunächst überlegt, dass es doch etwas unrealistisch ist, d
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
-Die roten Kreuze markieren unsere problematische Stelle.
+Problem (mit roten Kreuzen markiert)
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_6.png "Screenshot von Greenfoot")
 </details>
@@ -139,7 +141,7 @@ Programmierung Kamel
 </details>
 
 <h3 id="kapitel1.9">08.02.2023</h3>
-Heute haben wir erst 10 Minuten später angefangen, da es durch den neuen Stundenplan ein Missverständnis bezüglich unserer Stunden gab. Im Anschluss habne wir dann noch programmiert, dass unser Kamel auch Leben verliert, wenn es von den "herumfliegenden" Spinnen getroffen wird. Außerdem haben wir Herrn Buhl nach einem Programm gefragt, bei dem wir einen Java Quelltext einfügen können, da Bente ausprobiert hat, sich von ChatGPT einen Java Quelltext programmieren zulassen und jetzt würde uns interessieren, ob dieser in der Praxis funktioniert.
+Heute haben wir erst 10 Minuten später angefangen, da es durch den neuen Stundenplan ein Missverständnis bezüglich unserer Stunden gab. Im Anschluss haben wir dann noch programmiert, dass unser Kamel auch Leben verliert, wenn es von den "herumfliegenden" Spinnen getroffen wird. Außerdem haben wir Herrn Buhl nach einem Programm gefragt, bei dem wir einen Java Quelltext einfügen können, da Bente ausprobiert hat, sich von ChatGPT einen Java Quelltext programmieren zulassen und jetzt würde uns interessieren, ob dieser in der Praxis funktioniert.
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
@@ -164,6 +166,7 @@ Programmierung SandWorld
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_21.png "Screenshot von Greenfoot")
 
 Programmierung Totenkopf
+    
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_22.png "Screenshot von Greenfoot")
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_23.png "Screenshot von Greenfoot")
@@ -193,6 +196,8 @@ Die heutige Stunde ist leider ausgefallen.
 Heute haben wir uns mit der Optik unserer Programmierung beschäftigt, nachdem Herr Buhl sich unser Projekt angeschaut hat und meinte, dass man die Programmierung der Welt "schöner" programmieren kann. 
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
+    
+Programmierung 
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_28.png "Screenshot von Greenfoot")
 </details>
