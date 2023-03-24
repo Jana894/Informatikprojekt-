@@ -281,6 +281,7 @@ Heute waren Englisch-Sprechprüfungen, weshalb die heutige Stunde ausgefallen is
 <h3 id="kapitel1.22">24.03.2023</h3>
 Heute war Bente nich da, weshalb Jana alleine auf Fehlersuche gegangen ist und letztendlich den Fehler behebn konnte, weshalb die Bombe nicht mehr aufgetaucht ist. Es im Endeffekt nur daran, dass sie am oberen Rand erschienen ist und wir programmiert hatten, dass sie verschwindet, sobald sie den Rand berührt, was dazu geführt hat, dass sie verschwunden ist direkt, nachdem sie in die Welt gesetzt wurde.
 Des Weiteren hat Jana sich dann mit der Bearbeitung der Projektseite beschäftigt, da die Abgabe ja schon in zwei Wochen ist und die Projektseite noch nicht angefangen war.
+Dadurch, dass Herr Buhl so ehrgeizig war und unbedingt den Fehler bei den LebenVomKamel finden wollte, hat er sich in der Doppelstunde noch damit auseinander gesetzt und konnte glücklicherweise den Fehler beheben und nun funktioniert unser Spiel fehlerfrei. 
 
 <h3 id="kapitel1.23">29.03.2023</h3>
 
