@@ -95,7 +95,7 @@ Wir habne eine ArrayList programmiert, damit unsere Leben zusammengefasst sind u
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
-**ArrayList für LebenVomKamel und Entfernen der LebenVomKamel**
+**ArrayList für LebenVomKamel und Entfernen der LebenVomKamel bei Berührung der Kakteen**
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_9.png "Screenshot von Greenfoot")
 
@@ -163,14 +163,14 @@ Da es am Ende der Stunde einen Kurzschluss gab, mussten wir zu Hause nachschauen
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
-Programmierung SandWorld
+**Programmierung GameOver Bildschirm**
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_21.png "Screenshot von Greenfoot")
-
-Programmierung Totenkopf
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_22.png "Screenshot von Greenfoot")
 
+**Layout GameOver Bildschirm**
+    
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_23.png "Screenshot von Greenfoot")
 </details>
 
@@ -180,11 +180,15 @@ In den nächsten Stunden haben wir vor, zu programmieren, dass, wenn das Kamel d
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
-Fertigstellung Level 1
+**fertiges Layout Level 1**
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_24.png "Screenshot von Greenfoot")
 
+**fertiges Layout GameOver Bildschirm**
+    
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_25.png "Screenshot von Greenfoot")
+
+**Programmierung GameOver Bildschirm**    
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_26.png "Screenshot von Greenfoot")
 
@@ -199,7 +203,7 @@ Heute haben wir uns mit der Optik unserer Programmierung beschäftigt, nachdem H
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
     
-Programmierung 
+**Zusammenfassung/Vereinfachung der bisherigen Programmierungen**
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_28.png "Screenshot von Greenfoot")
 </details>
