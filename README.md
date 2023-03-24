@@ -68,13 +68,13 @@ Heute haben wir uns weiter in "Greenfoot" eingearbeitet und es am Ende geschafft
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
-Code SandWorld
+**Erschaffung der Welt und Platzierung der Objekte**
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_3.png "Screenshot von Greenfoot")
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_4.png "Screenshot von Greenfoot")
 
-Code Kamel (Bewegung durch die SandWorld)
+**vollständige Tastatursteuerung**
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_5.png "Screenshot von Greenfoot")
 </details>
@@ -95,13 +95,11 @@ Wir habne eine ArrayList programmiert, damit unsere Leben zusammengefasst sind u
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
-Programmierung SandWorld
+**ArrayList für LebenVomKamel und Entfernen der LebenVomKamel**
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_9.png "Screenshot von Greenfoot")
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_8.png "Screenshot von Greenfoot")
-    
-Programmierung Kamel
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_7.png "Screenshot von Greenfoot")
     
@@ -113,13 +111,13 @@ Leider ließ sich heute unser gesamtes Projekt nicht mehr öffnen und wir musste
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
-Programmierung Kamel
+**Zusammenfassung/Vereinfachung der bisherigen Programmierungen**
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_11.png "Screenshot von Greenfoot")
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_12.png "Screenshot von Greenfoot")
 
-Programmierung SandWorld
+**Programmierung Entfernen der LebenVomKamel**
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_13.png "Screenshot von Greenfoot")
 </details>
@@ -133,13 +131,12 @@ Programmierung SandWorld
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_14.png "Screenshot von Greenfoot")
 
-![screenshot greenfoot](Bilder/Screenshot_Greenfoot_15.png "Screenshot von Greenfoot")
-
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_16.png "Screenshot von Greenfoot")
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_17.png "Screenshot von Greenfoot")
 
 Programmierung Kamel
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_15.png "Screenshot von Greenfoot")
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_18.png "Screenshot von Greenfoot")
 </details>
