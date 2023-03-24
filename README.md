@@ -54,7 +54,11 @@ Unser Plan ist es, dass sich das Kamel durch das Labyrinth aus Kakteen bewegt un
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
+**Entwurf des Layouts**
+    
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_1.png "Screenshot von Greenfoot")
+
+**Tastatursteuerung Kamel und FassMitWasser "essen"**
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_2.png "Screenshot von Greenfoot")
 </details>
