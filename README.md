@@ -58,7 +58,7 @@ Unser Plan ist es, dass sich das Kamel durch das Labyrinth aus Kakteen bewegt un
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_1.png "Screenshot von Greenfoot")
 
-**Tastatursteuerung Kamel und FassMitWasser "essen"**
+**Programmierung Tastatursteuerung Kamel und FassMitWasser "essen"**
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_2.png "Screenshot von Greenfoot")
 </details>
@@ -68,13 +68,13 @@ Heute haben wir uns weiter in "Greenfoot" eingearbeitet und es am Ende geschafft
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
-**Erschaffung der Welt und Platzierung der Objekte**
+**Programmierung Erschaffung der Welt und Platzierung der Objekte**
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_3.png "Screenshot von Greenfoot")
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_4.png "Screenshot von Greenfoot")
 
-**vollständige Tastatursteuerung**
+**Programmierung vollständige Tastatursteuerung**
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_5.png "Screenshot von Greenfoot")
 </details>
@@ -95,7 +95,7 @@ Wir habne eine ArrayList programmiert, damit unsere Leben zusammengefasst sind u
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
-**ArrayList für LebenVomKamel und Entfernen der LebenVomKamel bei Berührung der Kakteen**
+**ArrayList für LebenVomKamel und Programmierung Entfernen der LebenVomKamel bei Berührung der Kakteen**
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_9.png "Screenshot von Greenfoot")
 
@@ -214,21 +214,21 @@ Am Ende der Stund haben wir uns noch damit beschäftigt, das zweite Level zu ges
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
     
-Programmierung Levelwechsel
+**Programmierung Wechsel zwischen Welt 1 und 2**
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_29.png "Screenshot von Greenfoot")
 
-Level 2
+**Layout Welt 2**
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_30.png "Screenshot von Greenfoot")
-
-Programmierung SandWorld2
     
-![screenshot greenfoot](Bilder/Screenshot_Greenfoot_31.png "Screenshot von Greenfoot")
+**Programmierung Erschaffung der Welt 2 und Platzierung der Objekte**
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_32.png "Screenshot von Greenfoot")
+    
+**Programmierung Übernahme der Programmierungen aus Welt 1**
 
-Programmierung Kamel
+![screenshot greenfoot](Bilder/Screenshot_Greenfoot_31.png "Screenshot von Greenfoot")
     
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_33.png "Screenshot von Greenfoot")
 </details>
@@ -254,6 +254,8 @@ Heute haben wir das nachgearbeitet, was wir am Freitag während des Distanzlernt
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
+**Programmierung Erstellen Level 1 und 2**
+    
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_34.png "Screenshot von Greenfoot")
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_35.png "Screenshot von Greenfoot")
@@ -265,6 +267,8 @@ Außerdem haben wir noch den Abgabetermin der Projekte besprochen und festgelegt
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
+**Programmierung zufälliges Erscheinen der Bomben**
+    
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_36.png "Screenshot von Greenfoot")
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_37.png "Screenshot von Greenfoot")
@@ -275,6 +279,8 @@ Heute haben wir uns mit der Gravitation unserer Bombe und dem Verschwinden, soba
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
+**Programmierung der Gravitation der Bomben**
+    
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_38.png "Screenshot von Greenfoot")
 </details>
 
@@ -283,6 +289,8 @@ Heute kam Bente später, weshalb Jana zunächst alleine versucht hat die beiden 
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
+**Programmierung GameOver bei Berührung der Bomben**
+    
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_39.png "Screenshot von Greenfoot")
 </details>
 
@@ -296,8 +304,12 @@ Dadurch, dass Herr Buhl so ehrgeizig war und unbedingt den Fehler bei den LebenV
 
 <details id="Link"><summary>Arbeit mit Greenfoot</summary>
 
+**Programmierung Ziel Bildschirm**
+    
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_40.png "Screenshot von Greenfoot")
 
+**Programmierung Entfernen der LebenVomKamel**
+    
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_41.png "Screenshot von Greenfoot")
 
 ![screenshot greenfoot](Bilder/Screenshot_Greenfoot_42.png "Screenshot von Greenfoot")
