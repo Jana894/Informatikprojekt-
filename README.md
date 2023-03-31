@@ -298,7 +298,7 @@ Heute kam Bente später, weshalb Jana zunächst alleine versucht hat die beiden 
 Heute waren Englisch-Sprechprüfungen, weshalb die heutige Stunde ausgefallen ist.
 
 <h3 id="kapitel1.22">24.03.2023</h3>
-Heute war Bente nich da, weshalb Jana alleine auf Fehlersuche gegangen ist und letztendlich den Fehler behebn konnte, weshalb die Bombe nicht mehr aufgetaucht ist. Es im Endeffekt nur daran, dass sie am oberen Rand erschienen ist und wir programmiert hatten, dass sie verschwindet, sobald sie den Rand berührt, was dazu geführt hat, dass sie verschwunden ist direkt, nachdem sie in die Welt gesetzt wurde.
+Heute war Bente nicht da, weshalb Jana alleine auf Fehlersuche gegangen ist und letztendlich den Fehler behebn konnte, weshalb die Bombe nicht mehr aufgetaucht ist. Es im Endeffekt nur daran, dass sie am oberen Rand erschienen ist und wir programmiert hatten, dass sie verschwindet, sobald sie den Rand berührt, was dazu geführt hat, dass sie verschwunden ist direkt, nachdem sie in die Welt gesetzt wurde.
 Des Weiteren hat Jana sich dann mit der Bearbeitung der Projektseite beschäftigt, da die Abgabe ja schon in zwei Wochen ist und die Projektseite noch nicht angefangen war. Außerdem hat Jana noch einen Zielbildschirm gestaltet, der erscheint, wenn das Kamel das Ziel in Form eines Kleeblattes erreicht.
 Dadurch, dass Herr Buhl so ehrgeizig war und unbedingt den Fehler bei den LebenVomKamel finden wollte, hat er sich in der Doppelstunde noch damit auseinander gesetzt und konnte glücklicherweise den Fehler beheben und nun funktioniert unser Spiel fehlerfrei. 
 
@@ -316,7 +316,11 @@ Dadurch, dass Herr Buhl so ehrgeizig war und unbedingt den Fehler bei den LebenV
 </details>
 
 <h3 id="kapitel1.23">29.03.2023</h3>
+Die heutige Informatikstunde ist leider ausgefallen.
 
 <h3 id="kapitel1.24">31.03.2023</h3>
+Heute hat Jana Bente zunächst gezeigt, was letzte Woche an Fortschritten erzielt und an was gearbeitet wurde. Im Anschluss haben wir gemeinsam an unserer Projektseite gearbeitet und eine Anleitung zu unserem Spiel geschrieben, sowie unseren Code erklärt, was den Großteil der Stunde in Anspruch genommen hat.
+Zuhause muss alles dann noch einmal auf Rechtschreibfehler überprüft werden, sodass wir unser Projekt nächste Woche Mittwoch abgeben können.
 
 <h3 id="kapitel1.25">05.04.2023</h3>
+Heute haben wir unser Projekt eingereicht und die E-Mail mit unserer Projektseite und dem Stundenprotokoll abgeschickt.
